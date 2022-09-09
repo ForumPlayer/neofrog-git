@@ -1,3 +1,4 @@
+# Maintainer: ForumPlayer <fp+aur@forumplayer.dev>
 # Maintainer: Dylan Araps <dyl@tfwno.gf>
 # neofetch-git AUR PKGBUILD - https://aur.archlinux.org/packages/neofetch-git/
 # Frogged by Tk-Glitch <tkg@froggi.es>
@@ -7,7 +8,7 @@ pkgver=7.0.0.r46.gc8e08cd7
 pkgrel=1
 pkgdesc="A CLI system information tool written in BASH that supports displaying images."
 arch=('any')
-url="https://github.com/dylanaraps/${_pkgname}"
+url="https://github.com/Frogging-Family/${pkgname}"
 license=('MIT')
 provides=($_pkgname)
 conflicts=($_pkgname)
